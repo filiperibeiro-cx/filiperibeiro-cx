@@ -9,4 +9,3 @@
 
 
 - 👋 Hi,
-- Personal Github: [filipedaniel](https://github.com/filipedaniel)
